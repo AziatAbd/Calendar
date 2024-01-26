@@ -1,0 +1,24 @@
+.next-btn {
+  margin-left: 20px;
+}
+
+.calendar {
+  width: 500px;
+  text-align: center;
+}
+
+.day {
+  cursor: pointer;
+}
+
+.day:hover {
+  background-color: gray;
+}
+
+.today {
+  background: rgb(2, 124, 230);
+}
+
+.selected-day {
+  background-color: aquamarine;
+}
